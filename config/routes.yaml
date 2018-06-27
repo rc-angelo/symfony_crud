@@ -1,0 +1,12 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+#todo:
+#  resource: "@Todo/Controller/TodoController.php"
+#  prefix:   /
+#  type:     annotation
+
+#todo:
+#    path: /todo
+#    controller: App\Controller\TodoController::index
